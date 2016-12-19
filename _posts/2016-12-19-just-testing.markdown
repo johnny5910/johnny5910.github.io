@@ -15,11 +15,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 dankmemesgenerator also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def big seb
-  puts "seb"
-end of seb
-print_hi('sebbbbb')
-#=> prints 'sup seb' to STDOUT.
+wooahh
 {% endhighlight %}
 
 
